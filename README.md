@@ -26,6 +26,6 @@ Things you may want to cover:
 
 | Users    |      Are      |  Cool |
 |----------|:-------------:|------:|
-| id   |  left-aligned | $1600 |
-| firstname |    centered   |   $12 |
-|lastname | right-aligned |    $1 |
+| id       |  left-aligned | $1600 |
+| firstname|    centered   |   $12 |
+| lastname | right-aligned |    $1 |
