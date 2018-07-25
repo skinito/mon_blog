@@ -24,8 +24,8 @@ Things you may want to cover:
 * ...
 
 
-| Tables   |      Are      |  Cool |
+| Users    |      Are      |  Cool |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| id   |  left-aligned | $1600 |
+| firstname |    centered   |   $12 |
+|lastname | right-aligned |    $1 |
