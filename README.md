@@ -29,3 +29,6 @@ Things you may want to cover:
 | id       |  left-aligned | $1600 |
 | firstname|    centered   |   $12 |
 | lastname | right-aligned |    $1 |
+
+
+qf
