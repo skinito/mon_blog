@@ -24,8 +24,8 @@ Things you may want to cover:
 * ...
 
 
-|Compte|Identifiant|Mot de passe|
-|-|-|-|-|
-|**Administrateur technique**|dbadmin|dbAdmin#dbChiro*|
-|**Coordinateur** du réseau/d'une section locale|responsable|Resp#dbChiro*|
-|**Observateur**|observateur|Observ#dbChiro*|
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
